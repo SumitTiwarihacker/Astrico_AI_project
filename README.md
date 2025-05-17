@@ -1,7 +1,8 @@
-Institution-Learner-Assessor Registration System
+# Institution-Learner-Assessor Registration System
 A mini Django admin portal to register Institutions, Learners, and Assessors, with a summary dashboard.
 
-Features
+
+## Features
 Register institutions with contact info
 
 Register learners and link them to institutions
@@ -10,11 +11,17 @@ Register assessors with internal/external role
 
 View total counts in a summary dashboard
 
-Tech Stack
+
+
+## Tech Stack
+
 Django (Python)
+
 HTML + Bootstrap
+
 SQLite (default DB)
 
+## Images:-
 Index html Image :
 ![image](https://github.com/user-attachments/assets/6c4f755c-55f2-4907-8754-aa59a69c58f2)
 Institution html image:
